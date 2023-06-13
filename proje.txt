@@ -1,0 +1,4 @@
+
+Design a system that sends 1 byte of data in 2 seconds. You should select two pins ((gpio input and output)) one drived from your name and one from your surname (like you were supposed to in the first midterm). İn put string should be entered through usb interface and the output string should also be echoed through usbcdc and all the necassary parameters be should be configurable through usb .
+
+a) (30 pts due to 30th of May) be able to produce your 2 seconds signal and monitor it in STM32Cube monitor . In case you are using a simulation software find another way to demonstrate.
